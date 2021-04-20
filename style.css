@@ -29,7 +29,7 @@ body {
   width: 150px;
   border-radius: 1rem;
   padding: .5rem .8rem;
-  background: rgba(255, 255, 255, .3);
+  background: rgba(255, 255, 255, .5);
   color: #fff;
   text-shadow: 1px 1px 3px gray;
   cursor: pointer;
@@ -37,5 +37,5 @@ body {
 }
 
 .btn:hover {
-  background: rgba(255, 255, 255, .5)
+  background: rgba(255, 255, 255, .7);
 }

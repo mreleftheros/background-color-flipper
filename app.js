@@ -1,5 +1,5 @@
 const button = document.querySelector(".btn");
-const colors = ["red", "green", "blue"];
+const colors = ["red", "yellow", "green", "cyan", "blue", "magenta"];
 let currentColor; // keep track of current background color in a variable
 
 //function that returns a random color from array
